@@ -25,8 +25,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
+a         { color: #de3b15; }
+a:hover   { color: #6f3720; }
 a:visited { color: #a0a; }
 
 table {
@@ -73,26 +73,32 @@ ul.posts span {
   text-decoration: none;
 }
 
+.site .header img {
+  width: 42em;
+}
+
 .site .header h1.title {
   display: inline-block;
   margin-bottom: 2em;
 }
 
 .site .header h1.title a {
-  color: #a00;
+  color: #de3b15;
 }
 
 .site .header h1.title a:hover {
-  color: #000;
+  color: #6f3720;
 }
 
-.site .header a.extra {
-  color: #aaa;
-  margin-left: 1em;
+.site .groups a.extra {
+  color: #de3b15;
+  font-weight: bold;
+  text-decoration: none;
+  display: block;
 }
 
-.site .header a.extra:hover {
-  color: #000;
+.site .groups a.extra:hover {
+  color: #6f3720;
 }
 
 .site .meta {
@@ -113,7 +119,11 @@ ul.posts span {
 }
 
 .site .footer .contact a {
-  color: #8085C1;
+  color: #de3b15;
+}
+
+.site .footer .contact a:hover {
+  color: #6f3720;
 }
 
 .site .footer .rss {
@@ -155,7 +165,7 @@ ul.posts span {
 
 /* terminal */
 #post pre.terminal {
-  border: 1px solid #000;
+  border: 1px solid #6f3720;
   background-color: #333;
   color: #FFF;
 }
