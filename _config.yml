@@ -6,3 +6,7 @@ cities:
     name: Brussels, Belgium
     latitude: 50.8503396
     longitude: 4.3517103
+- lille:
+    name: Lille, France
+    latitude: 50.62925
+    longitude: 3.057256

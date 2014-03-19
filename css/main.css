@@ -135,6 +135,13 @@ ul.posts span {
 .site .footer .rss img {
   border: 0;
 }
+
+.site .credits {
+  color: #666;
+  font-size: 70%;
+  float: right;
+}
+
 .site img {
   width: 100%;
 }
