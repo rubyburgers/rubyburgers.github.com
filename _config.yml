@@ -1,6 +1,7 @@
 ---
 name: RubyBurgers - Meetup for Rubyists
 pygments: true
+markdown: kramdown
 cities:
 - brussels:
     name: Brussels, Belgium
