@@ -11,3 +11,7 @@ cities:
     name: Lille, France
     latitude: 50.62925
     longitude: 3.057256
+- zagreb:
+    name: Zagreb, Croatia
+    latitude: 45.8150108
+    longitude: 15.981919
