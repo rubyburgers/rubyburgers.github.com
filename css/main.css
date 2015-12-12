@@ -25,9 +25,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #de3b15; }
-a:hover   { color: #6f3720; }
-a:visited { color: #a0a; }
+a, a:visited { color: #de3b15; }
+a:hover      { color: #6f3720; }
 
 table {
   font-size: inherit;
