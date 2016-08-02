@@ -3,6 +3,10 @@ name: RubyBurgers - Meetup for Rubyists
 pygments: true
 markdown: kramdown
 cities:
+- adelaide:
+    name: Adelaide, Australia
+    latitude: -34.92862119999999
+    longitude: 138.5999594
 - brussels:
     name: Brussels, Belgium
     latitude: 50.8503396
