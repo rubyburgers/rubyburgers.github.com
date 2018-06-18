@@ -12,5 +12,5 @@ title: RubyBurgers - Brussels, Belgium
 Ruby lovers meet burger lovers. Join us to talk about ruby AND burgers in the best burger places in Brussels.
 
 
-[Our meetup page](http://www.meetup.com/ruby_burgers-rb)
+[Our meetup page](https://www.meetup.com/ruby_belgium)
 
